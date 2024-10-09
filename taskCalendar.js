@@ -1,4 +1,5 @@
 function dayCheck(){
+    
     let day = prompt("Enter a day of the week: ");
     switch (day){
         case "Monday":
